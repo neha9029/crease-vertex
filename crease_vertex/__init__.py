@@ -1,7 +1,7 @@
 """crease-vertex: analyze a single origami crease vertex.
 
-Public API (proposed)
----------------------
+Public API
+----------
 Construction
     ``CreaseVertex(creases, *, assignments=None, tolerance=1e-6)``
     Accepts ``Sequence[float]`` or ``Sequence[Crease]``. Normalizes angles
