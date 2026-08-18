@@ -24,6 +24,12 @@ classifiers = [
 ]
 dependencies = []
 
+[project.urls]
+Homepage = "https://github.com/neha9029/crease-vertex"
+Repository = "https://github.com/neha9029/crease-vertex"
+Issues = "https://github.com/neha9029/crease-vertex/issues"
+Changelog = "https://github.com/neha9029/crease-vertex/blob/main/CHANGELOG.md"
+
 [project.optional-dependencies]
 dev = ["pytest>=8.0"]
 
